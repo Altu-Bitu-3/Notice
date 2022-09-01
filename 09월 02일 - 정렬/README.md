@@ -42,7 +42,8 @@
 <details>
 <summary>알바생 강호</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;강호가 팁을 가장 많이 받을 수 있는 배치는 어떻게 될까요? 1등 사람의 팁이 적어야 좋을지 많아야 좋을지를 생각해 봅시다!
+&nbsp;&nbsp;&nbsp;&nbsp;강호가 받을 수 있는 팁이 최댓값이 되기 위해선 어떻게 해야 할 까요?
+손님이 원래 주려 했던 팁을 정렬해보아요! 그리고 문제 조건에 따른 정수 자료형 사용을 주의하셔야 할 것 같아요.
 </div>
 </details>
 
@@ -63,7 +64,7 @@
 <details>
 <summary>보물</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;문제에 함정이 있어요. B는 재배열 할 수 없지만 A는 재배열이 가능하죠!
+&nbsp;&nbsp;&nbsp;&nbsp;오늘은 하지 말라는 것도 하고 싶어지네요..
 </div>
 </details>
 
