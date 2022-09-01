@@ -1,6 +1,6 @@
 # 정렬 (Sort)
 
-[메인으로 돌아가기](https://github.com/Altu-Bitu-2/Notice)
+[메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
 ## 💻 튜터링
 
