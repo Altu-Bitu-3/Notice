@@ -38,7 +38,6 @@ void merge(int left, int mid, int right) {
         sorted[index++] = arr[p2++];
     }
     //원래 배열에 다시 복사 -> 이래야 다음 conquer & merge 과정에서 올바른 검사 가능
-    //(python3) 복사과정에서 반복문을 사용해도 되지만, 슬라이싱을 이용해서 한번에 복사 가능!
     for (int i = left; i <= right; i++) {
         arr[i] = sorted[i];
     }

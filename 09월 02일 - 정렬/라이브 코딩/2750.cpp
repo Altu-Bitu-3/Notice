@@ -19,7 +19,6 @@ void bubbleSort(int n) {
         for (int j = 0; j < n - i - 1; j++) { //i는 이미 정렬된 수의 개수와 같으므로 이를 제외하고 비교
             if (arr[j] > arr[j + 1]) { //왼쪽이 더 크다면
                 //swap 함수 구현
-                //(python3) arr[j], arr[j+1] = arr[j+1], arr[j] 로 구현 가능!
 //                int tmp = arr[j];
 //                arr[j] = arr[j + 1];
 //                arr[j + 1] = tmp;
