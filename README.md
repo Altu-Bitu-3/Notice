@@ -22,7 +22,7 @@ SW학부 원스탑 튜터링에서 진행하는 코딩 테스트 대비 알고�
 |:----------:|:----:|:---------:|:---------:|:----:|
 | 2022.09.01 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/00.%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/00.%20OT.pdf)|-|
 | 2022.09.02 |정렬|[@flowersayo](https://github.com/flowersayo)|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/00.%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/01.%EC%A0%95%EB%A0%AC.pdf)|[바로가기](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|
-| 2022.09.06 |맵과 셋||[바로가기](https://www.youtube.com/watch?v=zgdmuFFuK5E)|[바로가기](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B)|
+| 2022.09.06 |맵과 셋|[@bsa0322](https://github.com/bsa0322)|[바로가기](https://www.youtube.com/watch?v=zgdmuFFuK5E)|[바로가기](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B)|
 | 2022.09.09 |스택, 큐, 덱||[바로가기]()|[바로가기]()|
 | 2022.09.13 |정수론||[바로가기]()|[바로가기]()|
 | 2022.09.16 |브루트 포스||[바로가기]()|[바로가기]()|
