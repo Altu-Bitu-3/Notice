@@ -1,4 +1,4 @@
-# 정렬 (Sort)
+# 맵과 셋 (Map & Set)
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
@@ -8,63 +8,86 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2750" target="_blank">2750</a>|<a href="https://www.acmicpc.net/problem/2750" target="_blank">수 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2750.cpp)|정렬|
-|<a href="https://www.acmicpc.net/problem/2751" target="_blank">2751</a>|<a href="https://www.acmicpc.net/problem/2751" target="_blank">수 정렬하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2751.cpp)|정렬|
-|<a href="https://www.acmicpc.net/problem/10825" target="_blank">10825</a>|<a href="https://www.acmicpc.net/problem/10825" target="_blank">국영수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10825.cpp)|정렬|
+|<a href="https://www.acmicpc.net/problem/10867" target="_blank">10867</a>|<a href="https://www.acmicpc.net/problem/10867" target="_blank">중복 빼고 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|셋|
+|<a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|맵|
+|<a href="https://www.acmicpc.net/problem/2002" target="_blank">2002</a>|<a href="https://www.acmicpc.net/problem/2002" target="_blank">추월</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()|맵, 완전탐색|
+|해시 구현|-|-|[바로가기]()|해시 맵|
+
 
 
 ## ✏️ 과제
+
 ### 마감기한
-~ 9 / 8 (목) 낮 12:00 - 코드 리뷰 </br>
-~ 9 / 9 (금) 밤 12:00 - 추가 제출 </br>
+~ 9 / 12 (월) 낮 12:00 - 코드 리뷰 </br>
+~ 9 / 13 (화) 밤 12:00 - 추가 제출 </br>
+
+### 필수
+
+|문제 번호|문제 이름|난이도|풀이 링크|분류|
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|구현|
+|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[C++]()|구현|
 
 ### 선택
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11651" target="_blank">11651</a>|<a href="https://www.acmicpc.net/problem/11651" target="_blank">좌표 정렬하기2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|정렬|
-|<a href="https://www.acmicpc.net/problem/1758" target="_blank">1758</a>|<a href="https://www.acmicpc.net/problem/1758" target="_blank">알바생 강호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|정렬, 그리디|
-|<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|정렬, 문자열|
-|<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|정렬, 그리디|
-|<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/tree/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|정렬|
+|<a href="https://www.acmicpc.net/problem/2910" target="_blank">2910</a>|<a href="https://www.acmicpc.net/problem/2910" target="_blank">빈도 정렬</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/14911" target="_blank">14911</a>|<a href="https://www.acmicpc.net/problem/14911" target="_blank">궁합 쌍 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++]()|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/7785" target="_blank">7785</a>|<a href="https://www.acmicpc.net/problem/7785" target="_blank">회사에 있는 사람</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
 
 ---
 
 ### 힌트
 
 <details>
-<summary>좌표 정렬하기2</summary>
+<summary>집합</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;튜터링 때 다룬 응용문제에서 배운 부분을 활용해 볼 수 있겠어요!
+&nbsp;&nbsp;&nbsp;&nbsp;숫자의 위치가 고정되었다고 생각하고, 추가랑 삭제를 표현해보면 어떨까요?
 </div>
 </details>
 
 <details>
-<summary>알바생 강호</summary>
+<summary>큰 수 A+B</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;강호가 받을 수 있는 팁이 최댓값이 되기 위해선 어떻게 해야 할까요?
-  </br>손님이 원래 주려 했던 팁을 정렬해보아요! 그리고 문제 조건에 따른 정수 자료형 사용을 주의하셔야 할 것 같아요.
+&nbsp;&nbsp;&nbsp;&nbsp;두 수를 그냥 더하기에는 숫자가 너무 커요. 직접 숫자를 더할 때 일의 자리부터 하나하나 더했죠? 그 방식으로 문제를 풀면 좋아요!
 </div>
 </details>
 
 <details>
-<summary>시리얼 번호</summary>
+<summary>빈도 정렬</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;문자열들을 문제의 조건대로 정렬하기 위해서 compare함수를 직접 만들어봅시다! 문자열의 문자가 숫자인지 알파벳인지는 어떻게 파악할 수 있을까요? 사람들이 이미 방법을 만들어 놨을지도 몰라요!
+&nbsp;&nbsp;&nbsp;&nbsp;어떤 구조를 사용해야지 빈도수와 순서를 저장하기 편할까요? 또 정렬 함수를 사용하기 위한 구조는 무엇일까요? 형식을 정했다면 지난 시간에 배운 정렬 방법을 떠올려보세요!
 </div>
 </details>
 
 <details>
-<summary>신입 사원</summary>
+<summary>궁합 쌍 찾기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;서류심사와 면접심사의 성적을 모두 고려해 동시에 비교하려니 힘드네요. 하나의 심사 순위만 비교하려면 어떻게 해야 할까요?
+&nbsp;&nbsp;&nbsp;&nbsp;입력받는 숫자들의 개수가 주어지지 않았음을 주의하세요!
 </div>
 </details>
 
 <details>
-<summary>보물</summary>
+<summary>문자열 집합</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;오늘은 하지 말라는 것도 하고 싶어지네요..
+&nbsp;&nbsp;&nbsp;&nbsp;문자열을 저장하기 위해서 어떤 자료형을 사용하면 좋을까요? 문자열을 빠르게 탐색할 수 있는 자료형이면 좋겠네요!
+</div>
+</details>
+
+<details>
+<summary>회사에 있는 사람</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;회사에 남아있는 사람만 누구인지 알면 되겠어요! 그리고 마지막에 역순으로 이름을 출력해야 하네요. set의 기본은 오름차순 정렬이었죠! 역순으로 순환하려면 어떻게 해야 할까요? 의외로 쉬운 방법이 있어요.
+</div>
+</details>
+
+<details>
+<summary>패션왕 신해빈</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;의상의 이름과 의상의 종류 중 우리에게 필요한 입력값은 무엇일까요? 마지막에 해빈이가 알몸이 되지 않도록 주의해주세요!
 </div>
 </details>
 
