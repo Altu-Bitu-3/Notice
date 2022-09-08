@@ -66,7 +66,7 @@
 <details>
 <summary>카드 놓기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;결과값을 보고 처음 상태를 유추하는 문제네요! 결과에서부터 거슬러 올라가며 거꾸로 생각해볼까요?
+&nbsp;&nbsp;&nbsp;&nbsp;결과값을 보고 처음 상태를 유추하는 문제네요! 결과에서부터 거슬러 올라가며 거꾸로 생각해볼까요? 이때, 기술은 어떻게 적용해야 할까요?
 </div>
 </details>
 
