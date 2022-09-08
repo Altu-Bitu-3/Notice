@@ -8,6 +8,11 @@
 using namespace std;
 
 int main() {
+    // c++ 입출력 속도 향상
+    ios_base :: sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
     int n, m;
     string input;
     map<string, int> pocket_name; //이름이 key, 번호가 value
