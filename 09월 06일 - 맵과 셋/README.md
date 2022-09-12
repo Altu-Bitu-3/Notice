@@ -25,18 +25,18 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|구현|
-|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[C++]()|구현|
+|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[c++/벡터](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/11723_1.cpp)[c++/비트마스크](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/11723_2.cpp)|구현|
+|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[C++/벡터](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/10757_v1.cpp)[c++/스택](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/10757_v2.cpp)|구현|
 
 ### 선택
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2910" target="_blank">2910</a>|<a href="https://www.acmicpc.net/problem/2910" target="_blank">빈도 정렬</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/14911" target="_blank">14911</a>|<a href="https://www.acmicpc.net/problem/14911" target="_blank">궁합 쌍 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++]()|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/7785" target="_blank">7785</a>|<a href="https://www.acmicpc.net/problem/7785" target="_blank">회사에 있는 사람</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/2910" target="_blank">2910</a>|<a href="https://www.acmicpc.net/problem/2910" target="_blank">빈도 정렬</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/2910.cpp)|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/14911" target="_blank">14911</a>|<a href="https://www.acmicpc.net/problem/14911" target="_blank">궁합 쌍 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/14911.cpp)|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/14425.cpp)|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/7785" target="_blank">7785</a>|<a href="https://www.acmicpc.net/problem/7785" target="_blank">회사에 있는 사람</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/7785.cpp)|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/9375.cpp)|맵, 셋|
 
 ---
 
