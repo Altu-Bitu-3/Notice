@@ -29,8 +29,8 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		cin >> num;
 
-		if (!frequency[num]) {//입력받은 정수의 frequency값이 0이면
-			order[num] = i; //order에 처음 나온 순서 i기록
+		if (!frequency[num]) {
+			order[num] = i; 
 		}
 		frequency[num]++;
 	}
