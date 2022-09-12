@@ -44,15 +44,15 @@
 <details>
 <summary>팰린드롬 만들기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;숫자의 위치가 고정되었다고 생각하고, 추가랑 삭제를 표현해보면 어떨까요?
+&nbsp;&nbsp;&nbsp;&nbsp;앞뒤로 반복되어 나올 알파벳과 가운데에 위치할 알파벳을 분리한다면 펠린드롬을 쉽게 구현할 수 있지 않을까요?
 </div>
 </details>
 
 <details>
 <summary>통계학</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;각 값을 구하기 위해 어떤 작업이 필요할까요? 앞에서 배운 내용을 복습해 봅시다</br>
-&nbsp;&nbsp;&nbsp;&nbsp;~입력값의 조건에 주목해주세요!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;각 값을 구하기 위해 어떤 작업이 필요할까요? 앞에서 배운 내용을 복습해 봅시다~</br>
+&nbsp;&nbsp;&nbsp;&nbsp;입력값의 조건에 주목해주세요!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;-0을 나타내는 자료형은 없어요.
 </div>
 </details>
