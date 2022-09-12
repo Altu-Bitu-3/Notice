@@ -1,4 +1,4 @@
-# 맵과 셋 (Map & Set)
+# 정수론 (Number Theory)
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
@@ -8,86 +8,89 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10867" target="_blank">10867</a>|<a href="https://www.acmicpc.net/problem/10867" target="_blank">중복 빼고 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]( https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/10867.cpp)|셋|
-|<a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/1620.cpp)|맵|
-|<a href="https://www.acmicpc.net/problem/2002" target="_blank">2002</a>|<a href="https://www.acmicpc.net/problem/2002" target="_blank">추월</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2002.cpp)|맵, 완전탐색|
-|해시 구현|-|-|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/hash.cpp)|해시 맵|
-
+|<a href="https://www.acmicpc.net/problem/2609" target="_blank">2609</a>|<a href="https://www.acmicpc.net/problem/2609" target="_blank">최대공약수와 최소공배수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/>|[바로가기]()|유클리드 호제법|
+|<a href="https://www.acmicpc.net/problem/2960" target="_blank">2960</a>|<a href="https://www.acmicpc.net/problem/2960" target="_blank">에라토스테네스의 체</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|에라토스테네스|
+|<a href="https://www.acmicpc.net/problem/16563" target="_blank">16563</a>|<a href="https://www.acmicpc.net/problem/16563" target="_blank">어려운 소인수분해</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|에라토스테네스|
+|<a href="https://www.acmicpc.net/problem/9613" target="_blank">9613</a>|<a href="https://www.acmicpc.net/problem/9613" target="_blank">GCD 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()|유클리드 호제법|
 
 
 ## ✏️ 과제
 
 ### 마감기한
-~ 9 / 12 (월) 낮 12:00 - 코드 리뷰 </br>
-~ 9 / 13 (화) 밤 12:00 - 추가 제출 </br>
+~ 9 / 19 (월) 낮 12:00 - 코드 리뷰 </br>
+~ 9 / 20 (화) 밤 12:00 - 추가 제출 </br>
 
 ### 필수
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++/벡터](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/11723_1.cpp)</br>[C++/비트마스크](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/11723_2.cpp)|구현|
-|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[C++/벡터](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/10757_v1.cpp)</br>[C++/스택](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%ED%95%84%EC%88%98/10757_v2.cpp)|구현|
+|<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|구현, 문자열|
+|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()</br>[C++]()|구현, 수학|
 
 ### 선택
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2910" target="_blank">2910</a>|<a href="https://www.acmicpc.net/problem/2910" target="_blank">빈도 정렬</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/2910.cpp)|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/14911" target="_blank">14911</a>|<a href="https://www.acmicpc.net/problem/14911" target="_blank">궁합 쌍 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/14911.cpp)|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/14425.cpp)|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/7785" target="_blank">7785</a>|<a href="https://www.acmicpc.net/problem/7785" target="_blank">회사에 있는 사람</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/7785.cpp)|맵, 셋|
-|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2006%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EC%84%A0%ED%83%9D/9375.cpp)|맵, 셋|
+|<a href="https://www.acmicpc.net/problem/2168" target="_blank">2168</a>|<a href="https://www.acmicpc.net/problem/2168" target="_blank">타일 위의 대각선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()|정수론, 유클리드 호제법|
+|<a href="https://www.acmicpc.net/problem/9421" target="_blank">9421</a>|<a href="https://www.acmicpc.net/problem/9421" target="_blank">소수상근수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()|정수론, 에라토스테네스의 체|
+|<a href="https://www.acmicpc.net/problem/6588" target="_blank">6588</a>|<a href="https://www.acmicpc.net/problem/6588" target="_blank">골드바흐의 추측</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()|정수론, 에라토스테네스의 체|
+|<a href="https://www.acmicpc.net/problem/20302" target="_blank">20302</a>|<a href="https://www.acmicpc.net/problem/20302" target="_blank">민트 초코</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|정수론, 에라토스테네스의 체|
+|<a href="https://www.acmicpc.net/problem/14490" target="_blank">14490</a>|<a href="https://www.acmicpc.net/problem/14490" target="_blank">백대열</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|정수론, 문자열, 유클리드 호제법|
 
 ---
 
 ### 힌트
 
 <details>
-<summary>집합</summary>
+<summary>팰린드롬 만들기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;숫자의 위치가 고정되었다고 생각하고, 추가랑 삭제를 표현해보면 어떨까요?
 </div>
 </details>
 
 <details>
-<summary>큰 수 A+B</summary>
+<summary>통계학</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;두 수를 그냥 더하기에는 숫자가 너무 커요. 직접 숫자를 더할 때 일의 자리부터 하나하나 더했죠? 그 방식으로 문제를 풀면 좋아요!
+&nbsp;&nbsp;&nbsp;&nbsp;각 값을 구하기 위해 어떤 작업이 필요할까요? 앞에서 배운 내용을 복습해 봅시다</br>
+&nbsp;&nbsp;&nbsp;&nbsp;~입력값의 조건에 주목해주세요!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;-0을 나타내는 자료형은 없어요.
 </div>
 </details>
 
 <details>
-<summary>빈도 정렬</summary>
+<summary>타일 위의 대각선</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;어떤 구조를 사용해야지 빈도수와 순서를 저장하기 편할까요? 또 정렬 함수를 사용하기 위한 구조는 무엇일까요? 형식을 정했다면 지난 시간에 배운 정렬 방법을 떠올려보세요!
+&nbsp;&nbsp;&nbsp;&nbsp;그림을 그려서 어떤 경우에 타일에 대각선이 그어지지 않는지 확인해보세요!
 </div>
 </details>
 
 <details>
-<summary>궁합 쌍 찾기</summary>
+<summary>소수상근수</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;입력받는 숫자들의 개수가 주어지지 않았음을 주의하세요!
+&nbsp;&nbsp;&nbsp;&nbsp;소수를 찾았다면 상근수인지 판단하면 되겠네요. 문제에서 주어진 그대로 구현해볼까요? 각 자릿수의 제곱의 합을 구할 때, 언제 그만둬야 할지 잘 생각해봐야 겠어요.
 </div>
 </details>
 
 <details>
-<summary>문자열 집합</summary>
+<summary>골드바흐의 추측</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;문자열을 저장하기 위해서 어떤 자료형을 사용하면 좋을까요? 문자열을 빠르게 탐색할 수 있는 자료형이면 좋겠네요!
+&nbsp;&nbsp;&nbsp;&nbsp;혹시 새로운 수를 입력받을때마다 소수인지 판단하는 과정을 반복하고 있지는 않나요?</br>
+&nbsp;&nbsp;&nbsp;&nbsp;두 소수중 하나를 정했다면 나머지 하나는 자동으로 결정 되죠!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;b-a 가 가장 크다는것이 어떤 의미일지 잘 생각해봅시다.
 </div>
 </details>
 
 <details>
-<summary>회사에 있는 사람</summary>
+<summary>민트 초코</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;회사에 남아있는 사람만 누구인지 알면 되겠어요! 그리고 마지막에 역순으로 이름을 출력해야 하네요. set의 기본은 오름차순 정렬이었죠! 역순으로 순환하려면 어떻게 해야 할까요? 의외로 쉬운 방법이 있어요.
+&nbsp;&nbsp;&nbsp;&nbsp;연산은 *와 / 밖에 없네요! 연산한 최종 결과로 판단하지 않고, 과정에서 판단할 수 있는 방법이 없을까요? 수는 분해가 가능하죠.
 </div>
 </details>
 
 <details>
-<summary>패션왕 신해빈</summary>
+<summary>백대열</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;의상의 이름과 의상의 종류 중 우리에게 필요한 입력값은 무엇일까요? 마지막에 해빈이가 알몸이 되지 않도록 주의해주세요!
+&nbsp;&nbsp;&nbsp;&nbsp;입력을 문자열로 받아볼까요? 어떻게 하면 문자열을 정수로 변환할 수 있을까요?
 </div>
 </details>
 
