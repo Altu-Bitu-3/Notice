@@ -24,11 +24,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11866" target="_blank">11866</a>|<a href="https://www.acmicpc.net/problem/11866" target="_blank">요세푸스 문제 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++]()|큐|
-|<a href="https://www.acmicpc.net/problem/4889" target="_blank">4889</a>|<a href="https://www.acmicpc.net/problem/4889" target="_blank">안정적인 문자열</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()|스택, 문자열|
-|<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()|스택|
-|<a href="https://www.acmicpc.net/problem/17299" target="_blank">17299</a>|<a href="https://www.acmicpc.net/problem/17299" target="_blank">오등큰수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()|스택|
-|<a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|덱|
+|<a href="https://www.acmicpc.net/problem/11866" target="_blank">11866</a>|<a href="https://www.acmicpc.net/problem/11866" target="_blank">요세푸스 문제 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2009%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EC%84%A0%ED%83%9D/11866.cpp)|큐|
+|<a href="https://www.acmicpc.net/problem/4889" target="_blank">4889</a>|<a href="https://www.acmicpc.net/problem/4889" target="_blank">안정적인 문자열</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2009%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EC%84%A0%ED%83%9D/4889.cpp)|스택, 문자열|
+|<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2009%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EC%84%A0%ED%83%9D/1918.cpp)|스택|
+|<a href="https://www.acmicpc.net/problem/17299" target="_blank">17299</a>|<a href="https://www.acmicpc.net/problem/17299" target="_blank">오등큰수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2009%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EC%84%A0%ED%83%9D/17299.cpp)|스택|
+|<a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>|<a href="https://www.acmicpc.net/problem/18115" target="_blank">카드 놓기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2009%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EC%84%A0%ED%83%9D/18115.cpp)|덱|
 
 
 ---
