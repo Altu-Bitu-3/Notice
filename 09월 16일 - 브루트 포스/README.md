@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2231" target="_blank">2609</a>|<a href="https://www.acmicpc.net/problem/2231" target="_blank">분해합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()| 브루트포스|
-|<a href="https://www.acmicpc.net/problem/1436" target="_blank">1436</a>|<a href="https://www.acmicpc.net/problem/1436" target="_blank">영화감독 숌</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|브루트포스|
-|<a href="https://www.acmicpc.net/problem/14889" target="_blank">14889</a>|<a href="https://www.acmicpc.net/problem/14889" target="_blank">스타트와 링크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()|브루트포스,백트래킹|
+|<a href="https://www.acmicpc.net/problem/2231" target="_blank">2231</a>|<a href="https://www.acmicpc.net/problem/2231" target="_blank">분해합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기]()| 브루트 포스|
+|<a href="https://www.acmicpc.net/problem/1436" target="_blank">1436</a>|<a href="https://www.acmicpc.net/problem/1436" target="_blank">영화감독 숌</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()|브루트 포스|
+|<a href="https://www.acmicpc.net/problem/14889" target="_blank">14889</a>|<a href="https://www.acmicpc.net/problem/14889" target="_blank">스타트와 링크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()|브루트 포스, 백트래킹|
 
 ## ✏️ 과제
 
