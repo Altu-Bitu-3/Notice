@@ -25,7 +25,7 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/1213" target="_blank">1213</a>|<a href="https://www.acmicpc.net/problem/1213" target="_blank">팰린드롬 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2013%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%ED%95%84%EC%88%98/1213.cpp)|구현, 문자열|
-|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2013%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%ED%95%84%EC%88%98/2108_1.cpp)</br>[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2013%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%ED%95%84%EC%88%98/2108_2.cpp)|구현, 수학|
+|<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++/v1](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2013%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%ED%95%84%EC%88%98/2108_1.cpp)</br>[C++/v2](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2013%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0/%ED%95%84%EC%88%98/2108_2.cpp)|구현, 수학|
 
 ### 선택
 
