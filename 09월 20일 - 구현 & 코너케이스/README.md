@@ -1,4 +1,4 @@
-# 구현 & 코너케이스(Number Theory)
+# 구현 & 코너케이스
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
