@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11279" target="_blank">11279</a>|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ 구현 /]() &nbsp;[라이브러리]()|우선순위 큐|
-|<a href="https://www.acmicpc.net/problem/11286" target="_blank">11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()|우선순위 큐|
+|<a href="https://www.acmicpc.net/problem/11279" target="_blank">11279</a>|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++ 구현 /](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2030%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11279_v1.cpp) &nbsp;[라이브러리](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2030%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11279_v2.cpp)|우선순위 큐|
+|<a href="https://www.acmicpc.net/problem/11286" target="_blank">11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2030%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11286.cpp)|우선순위 큐|
 
 ## ✏️ 과제
 
