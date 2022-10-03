@@ -86,7 +86,7 @@
 <details>
 <summary>30</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;30의 배수인지 어떻게 확인할 수 있을까요? 그리고 입력의 크기가 어떻게 되는지 확인해보세요!
 </div>
 </details>
 
