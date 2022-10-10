@@ -25,19 +25,19 @@
 
 |                                 문제 번호                                 |                                          문제 이름                                          |                                       난이도                                       | 풀이 링크 |      분류      |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------: | :------------: |
-| <a href="https://www.acmicpc.net/problem/7662" target="_blank">7662</a> | <a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  [C++]()  |      구현, 브루트 포스      |
-| <a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a> |   <a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  [C++]()  | 구현, 문자열 |
+| <a href="https://www.acmicpc.net/problem/7662" target="_blank">7662</a> | <a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [C++]()  |    셋, 우선순위 큐    |
+| <a href="https://www.acmicpc.net/problem/1244" target="_blank">1244</a> |   <a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [C++]()  | 구현, 시뮬레이션 |
 
 
 ### 선택
 
 |                                 문제 번호                                 |                                    문제 이름                                     |                                       난이도                                       | 풀이 링크 |         분류          |
 | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------: | :-------------------: |
-| <a href="https://www.acmicpc.net/problem/2531" target="_blank">2531</a> |   <a href="https://www.acmicpc.net/problem/2531" target="_blank">회전 초밥</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"> |  [C++]()  | 이분탐색, 매개변수 탐색|
-|  <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a>  |    <a href="https://www.acmicpc.net/problem/20437" target="_blank">문자열 게임2</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  [C++]()  |   이분탐색, 가장 긴 증가하는 수열  |
-| <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> |   <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |  [C++]()  |       이분탐색, 우선순위 큐, 그리디        |
-| <a href="https://www.acmicpc.net/problem/16472" target="_blank">16472</a> | <a href="https://www.acmicpc.net/problem/16472" target="_blank">고냥이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  [C++]()  | 이분탐색, 매개변수 탐색 |
-| <a href="https://www.acmicpc.net/problem/6159" target="_blank">6159</a> | <a href="https://www.acmicpc.net/problem/6159" target="_blank">코스튬 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |  [C++]()  | 구현, 이분탐색 |
+| <a href="https://www.acmicpc.net/problem/2531" target="_blank">2531</a> |   <a href="https://www.acmicpc.net/problem/2531" target="_blank">회전 초밥</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"> |  [C++]()  | 투 포인터, 슬라이딩 윈도우 |
+|  <a href="https://www.acmicpc.net/problem/20437" target="_blank">20437</a>  |    <a href="https://www.acmicpc.net/problem/20437" target="_blank">문자열 게임2</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  [C++]()  |   투 포인터, 슬라이딩 윈도우  |
+| <a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a> |   <a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |  [C++]()  |   투 포인터   |
+| <a href="https://www.acmicpc.net/problem/16472" target="_blank">16472</a> | <a href="https://www.acmicpc.net/problem/16472" target="_blank">고냥이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [C++]()  | 투 포인터 |
+| <a href="https://www.acmicpc.net/problem/6159" target="_blank">6159</a> | <a href="https://www.acmicpc.net/problem/6159" target="_blank">코스튬 파티</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |  [C++]()  | 누적 합, 투 포인터 |
 
 ---
 
