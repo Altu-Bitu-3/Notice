@@ -54,12 +54,8 @@
 <details>
 <summary>스위치 켜고 끄기</summary>
 <div markdown="1">
-  각 스위치는 상태가 두 가지 뿐이네요! 문제에서 주어진 대로 구현하면 될 것 같아요. 출력 조건을 확인해주세요
-</div>
-</details>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-  
+각 스위치는 상태가 두 가지 뿐이네요! 문제에서 주어진 대로 구현하면 될 것 같아요. 출력 조건을 확인해주세요.
 </div>
 </details>
 
