@@ -36,7 +36,7 @@
 <details>
 <summary>유기농배추</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;구역을 지정하기 위해 방문했던 곳은 다시 방문하면 안될 것 같아요!
 
 </div>
 </details>
@@ -44,7 +44,7 @@
 <details>
 <summary>안전 영역</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;상하좌우로 이동하면서 물에 잠기지 않는 영역을 방문한 뒤, 배열에 표시해 보도록 해요!
  
 </div>
 </details>
