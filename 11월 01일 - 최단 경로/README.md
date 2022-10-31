@@ -8,7 +8,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|다익스트라|
 |<a href="https://www.acmicpc.net/problem/11404" target="_blank">11404</a>|<a href="https://www.acmicpc.net/problem/11404" target="_blank">플로이드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|플로이드-워셜|
 |<a href="https://www.acmicpc.net/problem/11657" target="_blank">11657</a>|<a href="https://www.acmicpc.net/problem/11657" target="_blank">타임머신</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()|벨만-포드|
 
@@ -31,10 +31,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/10282.cpp)<br/>|다익스트라|
-|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1504.cpp)<br/>|다익스트라|
-|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1865.cpp)<br/>|벨만-포드|
-|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-2/Notice/blob/main/05%EC%9B%94%2003%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1719.cpp)<br/>|플로이드-워셜|
+|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>|벨만-포드|
+|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|플로이드-워셜|
 |<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승택시요금</a>|Level 3|[C++]()<br/>|다익스트라, 플로이드-워셜|
 
 
@@ -62,7 +62,7 @@
 <summary>해킹</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  한 정점에서 모든 정점까지의 최단 경로를 구하는 문제라고 볼 수 있겠네요! 감염 방향을 잘 고려해야겠어요. 가장 마지막 노드가 감염되는 최소 시간을 어떻게 구할 수 있을까요?
+  감염 방향을 잘 고려해야겠어요. 가장 마지막 노드가 감염되는 최소 시간을 어떻게 구할 수 있을까요?
 </div>
 </details>
 
@@ -89,7 +89,7 @@
 <summary>택배</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  모든 정점끼리의 최단경로를 알아야 하니 어떤 알고리즘을 사용해야 할지는 감이 오실거예요. 경로 i, j 사이에 포함될 수 있는 중간 경로 k가 생긴다면 어떻게 반영해야 할까요? 만약 둘 사이의 경로가 i->t->k->j라면요?
+  모든 정점끼리의 최단경로를 알아야겠네요! 만약 i,j 사이에 포함될 수 있는 중간 경로 k가 생긴다면 어떻게 반영해야 할까요? i->t->k->j 경로의 경우도 고려해서 생각해보아요.
 </div>
 </details>
 
