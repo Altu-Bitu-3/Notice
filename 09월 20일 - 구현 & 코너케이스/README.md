@@ -6,86 +6,90 @@
 
 ### 라이브 코딩
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2011" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">암호코드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2011.cpp)|다이나믹 프로그래밍|
-|<a href="https://www.acmicpc.net/problem/3190" target="_blank">3190</a>|<a href="https://www.acmicpc.net/problem/3190" target="_blank">뱀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/3190.cpp)|구현, 시뮬레이션|
+|                                 문제 번호                                 |                                   문제 이름                                    |                                       난이도                                       |                                                                                                            풀이 링크                                                                                                            |       분류       |
+| :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+| <a href="https://www.acmicpc.net/problem/14891" target="_blank">14891</a> | <a href="https://www.acmicpc.net/problem/14891 " target="_blank">톱니 바퀴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/14891.cpp) |       구현       |
+| <a href="https://www.acmicpc.net/problem/13458" target="_blank">13458</a> | <a href="https://www.acmicpc.net/problem/13458" target="_blank">시험 감독</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>  | [바로가기](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/13458.cpp) | 코너케이스, 수학 |
 
 ## ✏️ 과제
+
 ### 마감기한
-~ 11 / 14 (월) 낮 12:00 - 코드 리뷰 </br>
-~ 11 / 15 (화) 밤 12:00 - 추가 제출 </br>
+
+~ 9 / 26 (월) 낮 12:00 - 코드 리뷰 </br>
+~ 9 / 27 (화) 밤 12:00 - 추가 제출 </br>
 
 ### 필수
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/17281" target="_blank">17281</a>|<a href="https://www.acmicpc.net/problem/17281" target="_blank">⚾</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/17281.cpp)|구현|
-|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1063.cpp)|코너케이스|
-
----
-
+|                                문제 번호                                |                                   문제 이름                                    |                                      난이도                                       |                                                                                          풀이 링크                                                                                          |       분류       |
+| :---------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: |
+| <a href="https://www.acmicpc.net/problem/5397" target="_blank">5397</a> |   <a href="https://www.acmicpc.net/problem/5397" target="_blank">키로거</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%ED%95%84%EC%88%98/5397.cpp) |  구현, 자료구조  |
+| <a href="https://www.acmicpc.net/problem/2840" target="_blank">2840</a> | <a href="https://www.acmicpc.net/problem/2840" target="_blank">행운의 바퀴</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%ED%95%84%EC%88%98/2840.cpp) | 구현, 코너케이스 |
 
 ### 선택
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2607" target="_blank">2607</a>|<a href="https://www.acmicpc.net/problem/2607" target="_blank">비슷한 단어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/2607.cpp)|구현, 문자열|
-|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/14503.cpp)|구현, 시뮬레이션|
-|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/15685.cpp)|구현, 시뮬레이션|
-|<a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a>|<a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/14500.cpp)|구현, 브루트포스|
-|<a href="https://www.acmicpc.net/problem/22251" target="_blank">22251</a>|<a href="https://www.acmicpc.net/problem/22251" target="_blank">빌린 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2002%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/22251.cpp)|구현, 브루트포스|
+|                                 문제 번호                                 |                                      문제 이름                                      |                                      난이도                                       |                                                                                                                                                                                               풀이 링크                                                                                                                                                                                               |     분류     |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+|  <a href="https://www.acmicpc.net/problem/3226" target="_blank">3226</a>  |    <a href="https://www.acmicpc.net/problem/3226" target="_blank">전화 요금</a>     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [C++[1]](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/3226.cpp)</br> [C++[2]](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/3266_v2.cpp) |  구현, 수학  |
+|  <a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>  |  <a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |                                                                                                      [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/1713.cpp)                                                                                                      |     구현     |
+|  <a href="https://www.acmicpc.net/problem/1316" target="_blank">1316</a>  |  <a href="https://www.acmicpc.net/problem/1316" target="_blank">그룹 단어 체커</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |                                                                                                      [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/1316.cpp)                                                                                                      | 구현, 문자열 |
+|  <a href="https://www.acmicpc.net/problem/8911" target="_blank">8911</a>  |      <a href="https://www.acmicpc.net/problem/8911" target="_blank">거북이</a>      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |                                                                                                      [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/8911.cpp)                                                                                                      |     구현     |
+| <a href="https://www.acmicpc.net/problem/19636" target="_blank">19636</a> | <a href="https://www.acmicpc.net/problem/19636" target="_blank">요요 시뮬레이션</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |                                                                                                     [C++](https://github.com/Altu-Bitu-3/Notice/blob/main/09%EC%9B%94%2020%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/19636.cpp)                                                                                                      |     구현     |
 
 ---
 
 ### 힌트
 
 <details>
-<summary>⚾</summary>
+<summary>키로거</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;입력이 그렇게 크지 않네요! 모든 경우의 수를 다 해보면 될 것 같아요. 3아웃이 되면 아웃 카운트와 출루한 주자들이 모두 리셋되고 새로운 이닝이 시작된다는 규칙을 잘 기억해주세요!
+&nbsp;&nbsp;&nbsp;&nbsp;커서의 왼쪽과 오른쪽을 나눠서 생각해보세요
 </div>
 </details>
-
+</br>
 <details>
-<summary>킹</summary>
+<summary>행운의 바퀴</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;돌과 같은 위치가 될 경우, 돌도 옮겨야 해요. 무조건 쌍으로 킹과 돌을 옮기는 것이 아닌 것을 주의하세요!
+&nbsp;&nbsp;&nbsp;&nbsp;
+    바퀴에 같은 글자가 두 번 등장하거나, 중복되는 글자가 있으면 안 돼요!!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;+) 바퀴를 고정시키고 화살표의 위치를 바꾸는 식으로 문제를 풀면, 출력시에는 방향을 바꿔서 출력해야해요.
 </div>
 </details>
-
+</br>
 <details>
-<summary>비슷한 단어</summary>
+<summary>전화 요금</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;단어가 일치하는지 확인하는 게 아니라 구성을 비교해야 해요. 꽤 자주 말한 것 같지만, 알파벳은 겨우 26개입니다! 그렇다면, 구성을 비교하기 위해 무엇을 저장해야 할까요?
+&nbsp;&nbsp;&nbsp;&nbsp;통화가 언제 끝나는지 계산해볼까요?
 </div>
 </details>
-
+</br>
 <details>
-<summary>로봇 청소기</summary>
+<summary>후보 추천하기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;문제의 조건을 정확하게 이해하는 것이 중요해요. 애매한 부분이 생겼다면 [링크](https://www.acmicpc.net/board/view/96605)를 참고해볼까요?
+&nbsp;&nbsp;&nbsp;&nbsp;후보에 따른 추천 횟수와 게시 시간을 정보를 모두 알아야 할 것 같아요. </br>
+&nbsp;&nbsp;&nbsp;&nbsp;후보가 꽉 찼을 경우와 사진틀이 비어있을 경우를 고려해야 겠네요!</br>
 </div>
 </details>
-
+</br>
 <details>
-<summary>드래곤 커브</summary>
+<summary>그룹 단어 체커</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;문자열들을 문제의 조건대로 정렬하기 위해서 compare함수를 직접 만들어봅시다! 문자열의 문자가 숫자인지 알파벳인지는 어떻게 파악할 수 있을까요? 사람들이 이미 방법을 만들어 놨을지도 몰라요!
+&nbsp;&nbsp;&nbsp;&nbsp;이 알파벳이 이전에도 등장했었는지 효율적으로 판단할 수 있는 방법이 없을까요?</br>
+&nbsp;&nbsp;&nbsp;&nbsp;알파벳은 26개밖에 없네요! (배열을 활용해볼까요?)</br>
 </div>
 </details>
-
+</br>
 <details>
-<summary>테트로미노</summary>
+<summary>거북이</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;모든 모양을 하나하나 해보기엔 경우의 수가 너무 많아요. 각 블럭들을 회전해보면 공통점을 발견 할 수 있을 거에요! 각 블럭의 원소를 탐색하며 모양을 만들어볼까요?
+&nbsp;&nbsp;&nbsp;&nbsp; 문제의 설명 그대로 구현하면 되겠어요. 좌표계에서 동서남북을 구현하려면 어떻게 해야 할까요? 현재 좌표에서 각 방향으로 가기 위한 변화값에 집중해봅시다. 회전을 쉽게 구현하기 위해선 동서남북을 어떻게 관리하면 좋을까요? 또한, 넓이는 거북이가 제일 멀리 나갔을 때를 기록해두면 되지 않을까요?
 </div>
 </details>
-
+</br>
 <details>
-<summary>빌린 호석</summary>
+<summary>요요 시뮬레이션</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;LED는 켜진 상태 꺼진 상태 2가지 상태 밖에 없네요! 컴퓨터는 비트연산을 가장 빠르게 처리할 수 있어요!
+&nbsp;&nbsp;&nbsp;&nbsp;문제를 꼼꼼히 읽으며 필요한 연산을 찾아보아요.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;음수의 나눗셈 처리를 주의해주세요!
 </div>
 </details>
 
