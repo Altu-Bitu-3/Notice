@@ -22,8 +22,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/16235" target="_blank">16235</a>|<a href="https://www.acmicpc.net/problem/16235" target="_blank">나무 재테크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>|구현, 시뮬레이션|
-|<a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a>|<a href="https://www.acmicpc.net/problem/3085" target="_blank">사탕 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()<br/>|구현, 브루트 포스|
+|<a href="https://www.acmicpc.net/problem/16235" target="_blank">16235</a>|<a href="https://www.acmicpc.net/problem/16235" target="_blank">나무 재테크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%95%84%EC%88%98/16235.cpp)<br/>|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a>|<a href="https://www.acmicpc.net/problem/3085" target="_blank">사탕 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%ED%95%84%EC%88%98/3085.cpp)<br/>|구현, 브루트 포스|
 
 ---
 
@@ -31,11 +31,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|다익스트라|
+|<a href="https://www.acmicpc.net/problem/10282" target="_blank">10282</a>|<a href="https://www.acmicpc.net/problem/10282" target="_blank">해킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%84%A0%ED%83%9D/10282.cpp)<br/>|다익스트라|
 |<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|다익스트라|
-|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>|벨만-포드|
-|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()<br/>|플로이드-워셜|
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승택시요금</a>|Level 3|[C++]()<br/>|다익스트라, 플로이드-워셜|
+|<a href="https://www.acmicpc.net/problem/1865" target="_blank">1865</a>|<a href="https://www.acmicpc.net/problem/1865" target="_blank">웜홀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%84%A0%ED%83%9D/1865.cpp)<br/>|벨만-포드|
+|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%84%A0%ED%83%9D/1719.cpp)<br/>|플로이드-워셜|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승택시요금</a>|Level 3|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2001%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%84%A0%ED%83%9D/taxi.cpp)<br/>|다익스트라, 플로이드-워셜|
 
 
 
