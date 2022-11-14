@@ -34,7 +34,7 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
 |<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/1068" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
 |<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
 |<a href="https://www.acmicpc.net/problem/2533" target="_blank">2533</a>|<a href="https://www.acmicpc.net/problem/2533" target="_blank">사회망 서비스(SNS)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()|그래프, 그래프 탐색|
 
