@@ -20,8 +20,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/17281" target="_blank">17281</a>|<a href="https://www.acmicpc.net/problem/17281" target="_blank">⚾</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|구현|
-|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|코너케이스|
+|<a href="https://www.acmicpc.net/problem/17281" target="_blank">17281</a>|<a href="https://www.acmicpc.net/problem/17281" target="_blank">⚾</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%ED%95%84%EC%88%98/17281.cpp)|구현|
+|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%ED%95%84%EC%88%98/1063.cpp)|코너케이스|
 
 ---
 
@@ -30,11 +30,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2607" target="_blank">2607</a>|<a href="https://www.acmicpc.net/problem/2607" target="_blank">비슷한 단어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++]()|구현, 문자열|
-|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()|구현, 시뮬레이션|
-|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|구현, 시뮬레이션|
-|<a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a>|<a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|구현, 브루트포스|
-|<a href="https://www.acmicpc.net/problem/22251" target="_blank">22251</a>|<a href="https://www.acmicpc.net/problem/22251" target="_blank">빌린 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()|구현, 브루트포스|
+|<a href="https://www.acmicpc.net/problem/2607" target="_blank">2607</a>|<a href="https://www.acmicpc.net/problem/2607" target="_blank">비슷한 단어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/2607.cpp)|구현, 문자열|
+|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/14503.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/15685.cpp)</br>[추가설명](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/dragoncurve.jpg)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a>|<a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/14500.cpp)|구현, 브루트포스|
+|<a href="https://www.acmicpc.net/problem/22251" target="_blank">22251</a>|<a href="https://www.acmicpc.net/problem/22251" target="_blank">빌린 호석</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/22251.cpp)</br>[추가설명](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2008%EC%9D%BC%20-%20%EA%B5%AC%ED%98%84%20%26%20%EC%BD%94%EB%84%88%EC%BC%80%EC%9D%B4%EC%8A%A4/%EC%84%A0%ED%83%9D/22251.jpg)|구현, 브루트포스|
 
 ---
 
