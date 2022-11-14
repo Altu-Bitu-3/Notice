@@ -4,10 +4,7 @@
 
 using namespace std;
 
-
-
-int n, m;
-int simulate(vector<vector<int>> board,int r,int c,int d) {
+int simulate(int n,int m,vector<vector<int>> & board, int r,int c,int d) {
 
 	// 북 동 남 서 
 	int dr[4] = { -1,0,1,0, };
@@ -43,16 +40,14 @@ int simulate(vector<vector<int>> board,int r,int c,int d) {
 		if (step == 4) { //네 방향 모두 벽이거나 청소가 되어있는 경우
 
 			//바라 보는 방향을 유지한채로 한 칸 후진
-			int br = r - dr[d]; 
-			int bc = c - dc[d]; 
+			r = r - dr[d]; 
+			c = c - dc[d]; 
 
-			if (board[br][bc] == 1) { //뒤쪽 방향이 벽인 경우 작동 멈춤 
+			if (board[r][c] == 1) { //뒤쪽 방향이 벽인 경우 작동 멈춤 
 				break;
 			}
 
-			//후진
-			r = br;
-			c = bc;
+		
 		}
 
 	}
@@ -62,7 +57,7 @@ int simulate(vector<vector<int>> board,int r,int c,int d) {
 }
 int main() {
 
-	int r, c, d;
+	int n,m, r, c, d;
 
 	cin >> n >> m >> r >> c >> d;
 
@@ -75,6 +70,6 @@ int main() {
 		}
 	}
 
-	cout << simulate(board,r,c,d);
+	cout << simulate(n,m,board,r,c,d);
 
 }
