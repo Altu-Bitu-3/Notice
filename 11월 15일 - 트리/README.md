@@ -104,7 +104,3 @@
 
 
 ---
-
-### 코드리뷰 가이드
-
-🔗 [링크](https://diamond-drum-0d1.notion.site/05-17-a12aea1c62ea4ea3bbd70086117b6d58)
