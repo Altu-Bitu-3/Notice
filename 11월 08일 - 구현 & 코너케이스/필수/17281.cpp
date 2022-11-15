@@ -48,7 +48,7 @@ int getScore(vector<vector<int>> &inning, int n) {
             break;
         }
 
-        int player = order[i++]; //타석으로 나갈 주자
+        int player = order[i]; //타석으로 나갈 주자
         i = i % 9 + 1;
         if (inning[cur][player] == 0) { //아웃
             out++;
