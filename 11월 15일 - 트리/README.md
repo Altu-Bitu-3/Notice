@@ -97,7 +97,7 @@
 <summary>사회망 서비스(SNS)</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  만약 현재 정점이 얼리어답터가 아니라면, 연결되어 있는 정점들은 모두 얼리어답터여야 하겠네요! 해당 정점이 얼리어답터 일 때와 아닐 때의 경우로 나누어 생각해보아요.
 </div>
 </details>
 
