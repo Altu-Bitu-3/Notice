@@ -24,19 +24,19 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11559" target="_blank">11559</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">Puyo Puyo</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()<br/>|구현, 시뮬레이션, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++]()<br/>|구현, 브루트 포스|
+|<a href="https://www.acmicpc.net/problem/11559" target="_blank">11559</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">Puyo Puyo</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/11559.cpp)<br/>|구현, 시뮬레이션, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/18111.cpp)<br/>|구현, 브루트 포스|
 ---
 
 ### 선택
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++]()<br/>|그래프, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/2533" target="_blank">2533</a>|<a href="https://www.acmicpc.net/problem/2533" target="_blank">사회망 서비스(SNS)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++]()|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++_v1](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/5639.cpp)<br/>[C++_v2](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/5639v2.cpp)<br/>|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/1967.cpp)|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/14675.cpp)<br/>|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/15681.cpp)<br/>|그래프, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/2533" target="_blank">2533</a>|<a href="https://www.acmicpc.net/problem/2533" target="_blank">사회망 서비스(SNS)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/2533.cpp)|그래프, 그래프 탐색|
 
 
 
