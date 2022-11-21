@@ -1,74 +1,85 @@
-#include <iostream>
+#include<iostream>
 
 using namespace std;
+typedef pair<int, int> pi;
+/*
+ * hint: 차근차근 구현하면 될 것 같네요! 움직이지 않을 때의 조건을 꼼꼼하게 확인해주세요.
+ * 입출력 형식을 확인해주세요
+ */
 
-
-int main()
-{
-	int sr, sc, kr, kc, nr, nc;
-	int n;
-	string a, b;
-	cin >> a >> b >> n;
-
-	kr = 9 - (a[1] - '0'), kc = a[0] - 'A' + 1;
-	sr = 9 - (b[1] - '0'), sc = b[0] - 'A' + 1;
-
-	while (n--) {
-		string dir;
-		cin >> dir;
-		/*
-		R : 한 칸 오른쪽으로
-		L : 한 칸 왼쪽으로
-		B : 한 칸 아래로
-		T : 한 칸 위로
-		RT : 오른쪽 위 대각선으로
-		LT : 왼쪽 위 대각선으로
-		RB : 오른쪽 아래 대각선으로
-		LB : 왼쪽 아래 대각선으로
-		*/
-
-		if (dir == "R") {
-			nr = 0, nc = 1;
-		}
-		else if (dir == "L") {
-			nr = 0, nc = -1;
-		}
-		else if (dir == "B") {
-			nr = 1, nc = 0;
-		}
-		else if (dir == "T") {
-			nr = -1, nc = 0;
-		}
-		else if (dir == "RT") {
-			nr = -1, nc = 1;
-		}
-		else if (dir == "LT") {
-			nr = -1, nc = -1;
-		}
-		else if (dir == "RB") {
-			nr = 1, nc = 1;
-		}
-		else if (dir == "LB") {
-			nr = 1, nc = -1;
-		}
-
-		if (kr + nr <= 0 || kr + nr > 8 || kc + nc <= 0 || kc + nc > 8) {
-			continue;
-		}
-
-		kr += nr;
-		kc += nc;
-
-		if (kr == sr && kc == sc) {
-			if (sr + nr <= 0 || sr + nr > 8 || sc + nc <= 0 || sc + nc > 8) {
-				kr -= nr;
-				kc -= nc;
-				continue;
-			}
-			sr += nr;
-			sc += nc;
-		}
+pi nextCoord(string str, pi coord) {
+	//다음 좌표 구하기
+	pi res = coord;
+	if (str == "R") {
+		res.first++;
 	}
-	cout << (char)(kc + 64) << 9 - kr << '\n' << (char)(sc + 64) << 9 - sr;
-	return 0;
+	else if (str == "L") {
+		res.first--;
+	}
+	else if (str == "B") {
+		res.second--;
+	}
+	else if (str == "T") {
+		res.second++;
+	}
+	else if (str == "RT") {
+		res.first++; res.second++;
+	}
+	else if (str == "LT") {
+		res.first--; res.second++;
+	}
+	else if (str == "RB") {
+		res.first++; res.second--;
+	}
+	else if (str == "LB") {
+		res.first--; res.second--;
+	}
+	return res;
+}
+
+bool inRange(int num) { //체스판 범위 벗어나는지 확인
+	if (num <= 0 || num > 8) {
+		return false;
+	}
+	return true;
+}
+
+void move(string str, pi &stone, pi &king) {
+
+	pi next_king = nextCoord(str, king);
+	if (!inRange(next_king.first) || !inRange(next_king.second)) {
+		//king이 체스판을 벗어난 경우
+		return;
+	}
+	//king이 체스판을 벗어나지 않는 경우
+	if (next_king.first == stone.first && next_king.second == stone.second) {
+		//king이 돌과 같은 곳으로 이동하는 경우
+		pi next_stone = nextCoord(str, stone);
+		if (!inRange(next_stone.first) || !inRange(next_stone.second)) {
+			//돌이 체스판을 벗어나는 경우
+			return;
+		}
+		stone = next_stone;
+	}
+	king = next_king;
+}
+
+int main() {
+	string st, k;	int n;
+	cin >> k >> st >> n;
+
+	//돌, 킹의 좌표
+	pi stone = { st[0] - 'A'+1, st[1]-'0'};
+	pi king = { k[0] - 'A'+1, k[1]-'0'};
+
+	//이동
+	while (n--) {
+		string str;
+		cin >> str;
+		move(str, stone, king);
+	}
+	//출력
+	cout << char('A' + king.first - 1) << king.second << '\n';
+	cout << char('A' + stone.first - 1) << stone.second;
+
 }
