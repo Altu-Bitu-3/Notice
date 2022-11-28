@@ -1,4 +1,4 @@
-# 트리
+# 유니온 파인드
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
