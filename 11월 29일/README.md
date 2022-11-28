@@ -1,4 +1,4 @@
-# 유니온 파인드
+# 최소 신장 트리
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu-3/Notice)
 
