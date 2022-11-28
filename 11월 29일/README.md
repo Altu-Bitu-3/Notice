@@ -29,7 +29,7 @@
 |문제 번호|문제 이름|난이도|분류|
 | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|최소 신장 트리, 프림|
-|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EC%84%A0%ED%83%9D/1774.cpp)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼|
 |<a href="https://www.acmicpc.net/problem/21924" target="_blank">21924</a>|<a href="https://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 그래프|
 |<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼|
 |<a href="https://www.acmicpc.net/problem/13418" target="_blank">13418</a>|<a href="https://www.acmicpc.net/problem/13418" target="_blank">학교 탐방하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|최소 신장 트리, 크루스칼|
