@@ -19,7 +19,7 @@
 ### 필수
 
 |문제 번호|문제 이름|난이도|분류|
-| :-----: | :-----: | :-----: | | :-----: |
+| :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|구현, 시뮬레이션, 그래프 탐색|
 |<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|구현, 브루트 포스|
 ---
