@@ -20,8 +20,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/11559.cpp)<br/>|구현, 시뮬레이션, 그래프 탐색|
-|<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[C++](https://github.com/Altu-Bitu-3/Notice/blob/main/11%EC%9B%94%2015%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%ED%95%84%EC%88%98/18111.cpp)<br/>|구현, 브루트 포스|
+|<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/11559" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|구현, 시뮬레이션, 그래프 탐색|
+|<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|구현, 브루트 포스|
 ---
 
 ### 선택
@@ -74,7 +74,7 @@
 
 
 <details>
-<summary>별자리 만들기</summary>
+<summary>도시 건설</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
   전위 순회로 입력 받은 값을 어떻게 후위 순회로 출력할 수 있을까요?
