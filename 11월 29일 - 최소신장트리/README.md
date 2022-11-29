@@ -17,21 +17,21 @@
 
 ### 필수
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+|문제 번호|문제 이름|난이도|분류|
+| :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/16236" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|구현, 시뮬레이션, 그래프 탐색|
 |<a href="https://www.acmicpc.net/problem/1744" target="_blank">1744</a>|<a href="https://www.acmicpc.net/problem/1744" target="_blank">수 묶기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|구현, 브루트 포스|
 ---
 
 ### 선택
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()|최소 신장 트리, 프림|
-|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|최소 신장 트리, 크루스칼|
-|<a href="https://www.acmicpc.net/problem/21924" target="_blank">21924</a>|<a href="https://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|최소 신장 트리, 그래프|
-|<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[C++]()|최소 신장 트리, 크루스칼|
-|<a href="https://www.acmicpc.net/problem/13418" target="_blank">13418</a>|<a href="https://www.acmicpc.net/problem/13418" target="_blank">학교 탐방하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[C++]()|최소 신장 트리, 크루스칼|
+|문제 번호|문제 이름|난이도|분류|
+| :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|최소 신장 트리, 프림|
+|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/21924" target="_blank">21924</a>|<a href="https://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 그래프|
+|<a href="https://www.acmicpc.net/problem/1647" target="_blank">1647</a>|<a href="https://www.acmicpc.net/problem/1647" target="_blank">도시 분할 계획</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/13418" target="_blank">13418</a>|<a href="https://www.acmicpc.net/problem/13418" target="_blank">학교 탐방하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|최소 신장 트리, 크루스칼|
 
 
 
