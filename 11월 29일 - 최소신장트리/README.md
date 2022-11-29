@@ -6,7 +6,7 @@
 
 ### 라이브 코딩
 |문제 번호|문제 이름|난이도|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | 
 |<a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a>|<a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼, 프림|
 |<a href="https://www.acmicpc.net/problem/4386" target="_blank">4386</a>|<a href="https://www.acmicpc.net/problem/4386" target="_blank">별자리 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|최소 신장 트리, 크루스칼, 프림|
 
