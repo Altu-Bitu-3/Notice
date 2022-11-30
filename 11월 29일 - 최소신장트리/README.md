@@ -66,7 +66,7 @@
 <summary>도시 건설</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  전위 순회로 입력 받은 값을 어떻게 후위 순회로 출력할 수 있을까요?
+  절약되는 금액을 구해야한다는 점을 잊지 마세요! 들어올 수 있는 값의 범위에도 유의해야 할 것 같네요~~
 </div>
 </details>
 <details>
