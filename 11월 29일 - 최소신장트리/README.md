@@ -80,7 +80,7 @@
 <summary>학교 탐방하기</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
-  입력으로 들어오는 것은 트리라고 했죠! 트리는 그래프와 다르게 어떤 특징을 지니고 있나요?
+  최악과 최선의 각각의 상황에 대한 정렬 후 구해보아요!
 </div>
 </details>
 
