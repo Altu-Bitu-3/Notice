@@ -9,8 +9,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a>|<a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[크루스칼]()<br>[프림]()|최소 신장 트리, 크루스칼, 프림|
-|<a href="https://www.acmicpc.net/problem/4386" target="_blank">4386</a>|<a href="https://www.acmicpc.net/problem/4386" target="_blank">별자리 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[크루스칼]()<br>[프림]()|최소 신장 트리, 크루스칼, 프림|
+|<a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a>|<a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()|위상 정렬|
+|<a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a>|<a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()|위상 정렬, DP|
+|-|위상 정렬 DFS 풀이|-|[바로가기]()|위상 정렬, DFS|
 
 
 ### 필수
@@ -62,7 +63,7 @@
 <summary>문제집</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
- 방문 순서는 중요하지 않네요. DFS/BFS 중 어느것을 활용해도 괜찮을 것 같아요! 셀을 하나하나 검토하며 상하좌우로 뻗어나가며 같은 색깔을 지닌 영역인지 판단하면 되겠네요! 이미 방문 했던 곳을 한번 더 방문하지 않도록 하는 것이 중요해보여요.
+ 튜터링때 위상정렬은 여러 결과가 나올 수 있다고 했어요. 그런데 해당 문제는 순서에 대한 조건이 있네요! 어떻게 관리하면 좋을까요?
 </div>
 </details>
 
