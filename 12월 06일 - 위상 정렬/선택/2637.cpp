@@ -55,7 +55,7 @@ int main() {
     }
 
     //연산
-    vector<int> result = topologicalSort(n, graph);
+    vector<int> result = topologicSort(n, graph);
 
     //출력
     for (int i = 1; i <= n; i++) {
